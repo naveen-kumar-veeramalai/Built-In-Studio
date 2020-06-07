@@ -1,0 +1,20 @@
+.header {
+    background-color: grey;
+}
+
+.application-title {
+    font-size: x-large;
+    font-weight: bold;
+    padding: 20px 40px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.application-title:hover {
+    cursor: pointer;
+}
+
+.application-title-route {
+    text-decoration: none;
+    color: black;
+}
