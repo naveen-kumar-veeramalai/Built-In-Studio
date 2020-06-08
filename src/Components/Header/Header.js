@@ -10,8 +10,11 @@ function Header() {
             <Link className="application-title application-title-route" to="/">
                 <img alt="Built In Studio"></img>
             </Link>
-            <Link className="about-us-title navigation-title-route" to="/about-us">
+            <Link className="navigation-title navigation-title-route" to="/about-us">
                 About us
+            </Link>
+            <Link className="navigation-title navigation-title-route" to="/portfolio">
+                Portfolio
             </Link>
         </div>
     )
