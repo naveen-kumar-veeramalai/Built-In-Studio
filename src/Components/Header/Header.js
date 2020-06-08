@@ -6,7 +6,7 @@ import './Header.css'
 
 function Header() {
     return (
-        <div className="header">
+        <div className="header-content">
             <div className="application-title">
                 <Link className="application-title-route" to="/"><img alt="Built In Studio"></img></Link>
             </div>

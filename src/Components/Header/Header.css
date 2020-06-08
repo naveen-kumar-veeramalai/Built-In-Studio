@@ -1,11 +1,15 @@
-.header {
+.header-content {
     background-color: grey;
+    position: fixed;
+    width: 100%;
+    opacity: 0.75;
+    height: 88px;
 }
 
 .application-title {
     font-size: x-large;
     font-weight: bold;
-    padding: 20px 40px;
+    padding: 28px 40px;
     display: inline-block;
     vertical-align: middle;
 }
