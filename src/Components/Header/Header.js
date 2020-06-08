@@ -7,10 +7,12 @@ import './Header.css'
 function Header() {
     return (
         <div className="header-content">
-            <div className="application-title">
-                <Link className="application-title-route" to="/"><img alt="Built In Studio"></img></Link>
-            </div>
-            <Link to="/about-us">About us</Link>
+            <Link className="application-title application-title-route" to="/">
+                <img alt="Built In Studio"></img>
+            </Link>
+            <Link className="about-us-title navigation-title-route" to="/about-us">
+                About us
+            </Link>
         </div>
     )
 }

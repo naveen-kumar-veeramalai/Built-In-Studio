@@ -11,7 +11,6 @@
     font-weight: bold;
     padding: 28px 40px;
     display: inline-block;
-    vertical-align: middle;
 }
 
 .application-title:hover {
@@ -21,4 +20,19 @@
 .application-title-route {
     text-decoration: none;
     color: black;
+}
+
+.navigation-title-route {
+    text-decoration: none;
+    color: black;
+}
+
+.navigation-title-route:hover {
+    color: white;
+}
+
+.about-us-title {
+    font-size: larger;
+    font-weight: bold;
+    padding: 0px 5px;
 }
