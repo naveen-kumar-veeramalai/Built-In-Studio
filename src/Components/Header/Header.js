@@ -10,7 +10,7 @@ function Header() {
             <div className="application-title">
                 <Link className="application-title-route" to="/"><img alt="Built In Studio"></img></Link>
             </div>
-            Header component
+            <Link to="/about-us">About us</Link>
         </div>
     )
 }
