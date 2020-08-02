@@ -1,0 +1,44 @@
+.individualhouse1 {
+  background-image: url("./individual_house_1.jpeg");
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+.individualhouse1-content {
+  padding: 88px 0px 0px 0px;
+}
+
+.individualhouse1-text {
+  text-align: center;
+  color: azure;
+  font-size: xxx-large;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px #000000;
+  padding: 60px;
+  margin-bottom: 230px;
+}
+
+.individualhouse1-images {
+  background-color: white;
+}
+
+.images {
+  height: 300px;
+  width: 506px;
+  display: inline-block;
+}
+
+.image {
+  padding: 45px;
+}
+
+.back-button {
+  font-size: larger;
+  font-weight: bold;
+  padding: 30px;
+}
+
+.back-button-route {
+  text-decoration: underline;
+  color: black;
+}

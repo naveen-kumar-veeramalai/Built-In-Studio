@@ -1,0 +1,68 @@
+.body-content {
+  padding: 160px 0px 0px 0px;
+  overflow: hidden;
+}
+
+.body-intro {
+  background-color: rgba(255, 255, 255, 0.2)
+}
+
+.body-intro-prop {
+  text-align: right;
+  padding: 5px;
+  margin: 2px 20px 2px 2px;
+  font-family: cursive;
+  font-style: oblique;
+  font-variant: petite-caps;
+  font-size: larger;
+  color: cornsilk;
+
+}
+
+.body-intro-2 {
+  background-color: rgb(192, 187, 187);
+  height: 565px;
+  width: 100%;
+  margin: 70px 0 0 0;
+}
+
+.body-intro-img {
+  margin: 20px 40px 80px 219px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.body-intro-2-1 {
+  background-color: ivory;
+  margin: 20px 219px 80px 40px;
+  display: inline-block;
+  height: 400px;
+  width: 500px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  vertical-align: top;
+}
+
+.body-intro-text {
+  padding: 40px 20px 10px 20px;
+  font-family: cursive;
+  font-size: large;
+}
+
+.read-more-link {
+  font-size: larger;
+  font-weight: bold;
+  text-decoration: underline;
+  color: black;
+  display: block;
+  padding: 65px;
+}
+
+.body-intro-heading {
+  text-align: center;
+  font-weight: bold;
+  padding: 20px;
+  font-size: xx-large;
+  color: azure;
+  text-shadow: 2px 2px 4px #000000;
+}
