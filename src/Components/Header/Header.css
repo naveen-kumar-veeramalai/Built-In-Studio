@@ -1,38 +1,37 @@
 .header-content {
-    background-color: grey;
-    position: fixed;
-    width: 100%;
-    opacity: 0.75;
-    height: 88px;
+  background-color: grey;
+  position: fixed;
+  width: 100%;
+  opacity: 0.75;
+  height: 88px;
 }
 
 .application-title {
-    font-size: x-large;
-    font-weight: bold;
-    padding: 28px 40px;
-    display: inline-block;
+  padding: 0 20px 0 40px;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .application-title:hover {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .application-title-route {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 .navigation-title-route {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 .navigation-title-route:hover {
-    color: white;
+  color: white;
 }
 
 .navigation-title {
-    font-size: larger;
-    font-weight: bold;
-    padding: 0px 10px;
+  font-size: larger;
+  font-weight: bold;
+  padding: 0px 10px;
 }

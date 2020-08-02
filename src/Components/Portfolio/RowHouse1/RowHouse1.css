@@ -1,0 +1,56 @@
+.rowhouse1 {
+  background-image: url('./Row House 001.jpeg');
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+.rowhouse1-content {
+  padding: 88px 0px 0px 0px;
+}
+
+.rowhouse1-text {
+  text-align: center;
+  color: azure;
+  font-size: xxx-large;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px #000000;
+  padding: 60px;
+}
+
+.rowhouse1-details {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 30px 60px;
+  font-size: large;
+  font-family: cursive;
+  width: 60%;
+}
+
+.rowhouse1-details-heading {
+  color: rgb(204, 7, 7);
+  font-weight: 600;
+}
+
+.rowhouse1-images {
+  background-color: white;
+}
+
+.images {
+  height: 300px;
+  width: 506px;
+  display: inline-block;
+}
+
+.image {
+  padding: 45px;
+}
+
+.back-button {
+  font-size: larger;
+  font-weight: bold;
+  padding: 30px;
+}
+
+.back-button-route {
+  text-decoration: underline;
+  color: black;
+}

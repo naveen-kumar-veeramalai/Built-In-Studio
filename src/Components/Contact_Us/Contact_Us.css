@@ -1,0 +1,35 @@
+.contact-us {
+  background-image: url('./contact-us.jpg');
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+.contact-us-content {
+  padding: 88px 0px 0px 0px;
+}
+
+.contact-us-text {
+  text-align: center;
+  color: azure;
+  font-size: xxx-large;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px #000000;
+  padding: 60px;
+  margin-bottom: 230px;
+}
+
+.contact-us-details {
+  background-color: white;
+  font-family: cursive;
+}
+
+.contact-us-details-address {
+  padding: 90px 70px 90px 432px;
+  display: inline-block;
+}
+
+.contact-us-details-number {
+  display: inline-block;
+  padding: 90px 432px 90px 70px;
+  vertical-align: top;
+}
